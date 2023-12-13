@@ -7,7 +7,7 @@ Web Developer
 * ✉️  You can contact me at [kantik001@yandex.ru](mailto:kantik001@yandex.ru)
 * 🧠  I'm learning Laravel
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  Nice to meet you =)) I like {code, crypto and 3D-design}
+* ⚡  Nice to meet you =)) I like {code, crypto and 3D-design}sd
 
 <a href="https://www.github.com/kantik001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kantik001?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>

@@ -30,7 +30,6 @@ src="https://img.shields.io/github/followers/kantik001?logo=github&style=for-the
 
 <a href="http://www.github.com/kantik001"><img src="https://github-readme-stats.vercel.app/api?username=kantik001&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="kantik001's GitHub stats" /></a>
 
-<a href="http://www.github.com/kantik001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kantik001&stroke=ffffff&background=27272a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/kantik001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantik001&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

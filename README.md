@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * ✉️  You can contact me at [kantik001@yandex.ru](mailto:kantik001@yandex.ru)
-* 🧠  I'm learning Laravel
+* 🧠  I'm learning [many things]
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Nice to meet you =)) I like {code, crypto and 3D-design}
 

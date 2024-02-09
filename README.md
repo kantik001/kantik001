@@ -30,11 +30,3 @@ src="https://img.shields.io/github/followers/kantik001?logo=github&style=for-the
 
 <a href="http://www.github.com/kantik001"><img src="https://github-readme-stats.vercel.app/api?username=kantik001&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="kantik001's GitHub stats" /></a>
 
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/kantik001/task_manager_lite" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kantik001&repo=task_manager_lite&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/kantik001/Game_Analytics" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kantik001&repo=Game_Analytics&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/kantik001/Blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kantik001&repo=Blog&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div>
